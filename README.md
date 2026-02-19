@@ -11,7 +11,7 @@ Simple Dockerized static website template for beginners.
 
 ## Quickstart
 
-1. Fork this repo on GitHub: https://github.com/anomalyco/website-template/fork
+1. Fork this repo on GitHub: https://github.com/madebydamo/website-template/fork
 2. Clone your fork: `git clone https://github.com/YOURUSERNAME/website-template.git`
 3. `cd website-template`
 4. Edit files in `www/`
